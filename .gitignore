@@ -1,0 +1,23 @@
+# Arquivos do Node.js
+node_modules/
+npm-debug.log
+package-lock.json
+yarn.lock
+
+# Arquivos de ambiente (não versionar tokens)
+.env
+.env.local
+
+# Build do TypeScript
+dist/
+
+# Configurações do IDE/Editor
+.vscode/
+.idea/
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+
+# Arquivos do sistema (Mac/Windows)
+.DS_Store
